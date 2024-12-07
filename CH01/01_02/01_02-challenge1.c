@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-main()
+int main()
 {
-  puts("i am a C programer!");
+  puts("I am a C programer!");
   return 0;
 }
